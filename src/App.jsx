@@ -18,7 +18,7 @@ const App = () => {
       <Faq />
       <Testimonials />
       <Download />
-      {/*<Footer />*/}
+      <Footer />
     </mail>
   );
 };
